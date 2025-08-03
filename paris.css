@@ -13,14 +13,14 @@ body {
   padding: 1.5rem;
 }
 
-.content {
+.conteudo { 
   max-width: 900px;
   margin: 2rem auto;
   padding: 0 1rem;
   text-align: center;
 }
 
-.city-image {
+.cidade-imagem { 
   width: 100%;
   max-width: 280px;
   margin: 0.5rem;
