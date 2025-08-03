@@ -20,12 +20,31 @@ body {
   text-align: center;
 }
 
-.cidade-imagem { 
+.cidade-imagem1 { 
   width: 100%;
   max-width: 280px;
   margin: 1rem;
   border-radius: 6px;
   box-shadow: 0 2px 6px rgba(0,0,0,0.15);
+
+}
+
+.cidade-imagem2 { 
+  width: 100%;
+  max-width: 280px;
+  margin: 1rem;
+  border-radius: 6px;
+  box-shadow: 0 2px 6px rgba(0,0,0,0.15);
+
+}
+
+.cidade-imagem3 { 
+  width: 100%;
+  max-width: 280px;
+  margin: 1rem;
+  border-radius: 6px;
+  box-shadow: 0 2px 6px rgba(0,0,0,0.15);
+
 }
 
 .pacote {
