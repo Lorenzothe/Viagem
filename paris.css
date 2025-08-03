@@ -55,13 +55,3 @@ body {
 .btn:hover {
   background: #0096c7;
 }
-
-.cidade:nth-child(2) img {
-  border: 3px solid #e60026; /* borda vermelha */
-  filter: grayscale(20%);     /* um leve efeito preto e branco */
-  transition: transform 0.3s;
-}
-
-.cidade:nth-child(2) img:hover {
-  transform: scale(1.03);     /* aumenta levemente ao passar o mouse */
-}
