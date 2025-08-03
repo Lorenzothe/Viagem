@@ -36,13 +36,13 @@ body {
   border-radius: 6px;
 }
 
-.navegacao { 
+.navegacao {
   display: flex;
   justify-content: center;
   gap: 1rem;
 }
 
-.botao { 
+.btn {
   display: inline-block;
   background: #00b4d8;
   color: white;
