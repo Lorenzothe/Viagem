@@ -59,7 +59,7 @@ body {
 }
 
 .grid-imagens {
-display: grid;
+  display: grid;
   grid-template-columns: repeat(3, 28.8rem);
   grid-template-rows: 19.5rem;
   gap: 1rem;
