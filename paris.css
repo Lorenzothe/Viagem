@@ -57,3 +57,7 @@ body {
   background: #0096c7;
 }
 
+.grid-imagens {
+  display: grid;
+}
+
